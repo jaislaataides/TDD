@@ -2,5 +2,5 @@
 
 Repositório destinado à aplicação dos estudos sobre TDD - principalmente quanto ao curso Fullcycle.
 
-**:rounded_pin: Objetivo:** Aprender a construir testes sólidos para fortalecer a aplicação e utilizá-los com maior frequência.
+**📍Objetivo:** Aprender a construir testes sólidos para fortalecer a aplicação e utilizá-los com maior frequência.
 
